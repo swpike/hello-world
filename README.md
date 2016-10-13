@@ -1,2 +1,2 @@
 # hello-world
-write a short description
+PhD student in Political Science at University of California, Los Angeles.
